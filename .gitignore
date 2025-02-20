@@ -1,0 +1,59 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.npmrc
+.pnpm-debug.log*
+
+# Build and cache
+build/
+dist/
+.cache/
+.docusaurus/
+.out/
+.storybook-out/
+.eslintcache
+.next/
+.vite/
+.vitepress/
+.vite-cache/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing
+coverage/
+*.snap
+jest/
+cypress/videos/
+cypress/screenshots/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# Miscellaneous
+public/sw.js
+public/workbox-*.js
+public/workbox-*.json
