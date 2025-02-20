@@ -9,7 +9,7 @@
 A pokemon-inspired React Game SPA (single-page-application) featuring a rich UX including a welcome screen, a rules popup, a popup containing copyright information, an introduction by a pokemon professor and the actual game. 
 
 ## 🔴 Demo
-🎮 [Live Demo](https://gianlucajahn.github.io/pokematch-react-game)
+🎮 [Live Demo](https://olumuyiwapokematch.vercel.app/)
 
 ## Showcase 🎬
 You can see a GIF of my application below. I am looking through the rules, skipping through the introduction, opening the copyright info popup and playing a couple of rounds.. <br /> <br />
